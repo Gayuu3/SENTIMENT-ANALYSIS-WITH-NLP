@@ -5,3 +5,12 @@ www.cs.jhu.edu/~mdredze/datasets/sentiment/
 
 Link to download the data:
 http://www.cs.jhu.edu/~mdredze/datasets/sentiment/unprocessed.tar.gz (1.5 G)
+
+
+
+
+
+
+
+
+<img width="1859" height="867" alt="image" src="https://github.com/user-attachments/assets/4dcfbf9f-27e9-4a95-a881-c3331082cd2f" />
